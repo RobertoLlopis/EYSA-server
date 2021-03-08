@@ -1,0 +1,9 @@
+{
+  "name": "@eysa/server",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "MIT",
+  "dependencies": {
+    "@eysa/display-root": "0.1.0"
+  }
+}
